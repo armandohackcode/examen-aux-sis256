@@ -53,7 +53,7 @@
 			</article>
 			<aside class="col-md-4 p-3 ">
 				<ul class="list-group ">
-					<li class="list-group-item"><a href="./index.html" >Pregunta 1</a></li>
+					<li class="list-group-item"><a href="./index.php" >Pregunta 1</a></li>
 					<li class="list-group-item"><a href="#" id="p2">Pregunta 2</a></li>
 					<li class="list-group-item"><a href="#" id="p3">Pregunta 3</a></li>
 					<li class="list-group-item"><a href="#" id="p4">Pregunta 4</a></li>
